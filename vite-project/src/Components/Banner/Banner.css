@@ -1,5 +1,5 @@
-/* .banner {
-    margin-top: 10vh;
+.banner {
+    margin-top: 1vh;
     height: 100vh;
     margin-bottom: -80px;
     color: white;
@@ -52,4 +52,4 @@
       rgb(37, 37, 37, 0.91),
       #111
     );
-  } */
+  }
