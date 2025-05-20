@@ -1,4 +1,4 @@
-/* .row_poster{
+.row_poster{
     width: 100%;
     object-fit: contain;
     max-height: 100px;
@@ -28,4 +28,4 @@
 .row{
     margin-left: 20px;
     color: white;
-} */
+}
